@@ -3,12 +3,11 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x86"
+			"minor" : 0,
+			"revision" : 5
 		}
 ,
-		"rect" : [ 279.0, 44.0, 585.0, 480.0 ],
+		"rect" : [ 317.0, 212.0, 585.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -116,7 +115,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 327.5, 288.0, 69.0, 18.0 ],
-					"text" : "65 113 138"
+					"text" : "65 82 129"
 				}
 
 			}
@@ -157,8 +156,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 165.0, 189.0, 50.0, 18.0 ],
-					"text" : "A"
+					"patching_rect" : [ 165.0, 189.0, 50.0, 18.0 ]
 				}
 
 			}
